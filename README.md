@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on React<br>👯 I’m looking to collaborate on Web Technology <br>🤝 I’m looking for help <br>🌱 I’m currently learning<br>💬 Ask me about anything
+🔭 I’m currently working on React, Machine learning
+<br>👯 I’m looking to collaborate on Web Technology 
+<br>🤝 I’m looking for help 
+<br>🌱 I’m currently learning
+<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:

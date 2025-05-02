@@ -14,7 +14,7 @@
 ## Badges
 
 [![Google](https://images.credly.com/size/680x680/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/1958d513-36b7-4c8d-8004-e52e0d4140a7)
-[![AWS](https://images.credly.com/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png)](https://www.credly.com/earner/earned/badge/453dbf87-2f1e-4acf-b8a1-c1dd2c7c9292)
+[![AWS](https://images.credly.com/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png)](https://www.credly.com/badges/453dbf87-2f1e-4acf-b8a1-c1dd2c7c9292/public_url)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
